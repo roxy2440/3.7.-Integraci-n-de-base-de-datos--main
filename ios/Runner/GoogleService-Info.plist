@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>554569980306-ot8db6rnu8gstbmsm2k4bq5qqigu9t85.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.554569980306-ot8db6rnu8gstbmsm2k4bq5qqigu9t85</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCd0Y9rQzAlH-V7Ww-r8supIJONIQlxyto</string>
+	<key>GCM_SENDER_ID</key>
+	<string>554569980306</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>hackathon-54600</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hackathon-54600.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:554569980306:ios:27b06fab4ac2945899094b</string>
+	<key>DATABASE_URL</key>
+	<string>https://hackathon-54600-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
